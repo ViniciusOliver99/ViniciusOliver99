@@ -8,7 +8,6 @@
 <div align="center">
   <a href="https://github.com/ViniciusOliver99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusOliver99&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
-  < a  href = ""  target = "_blank" >< img  src = " https://img.shields.io/badge/-LinkedIn-% 230077B5?style=for-the-badge&logo=linkedin&logoColor=white "  target = "_blank" ></ a >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOliver99&layout=compact&langs_count=7&theme="/>
 </div>
 <div style="display: inline_block"><br>
