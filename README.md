@@ -1,7 +1,7 @@
 ### Hellou!! Eu me chamo Vinicius 
 
 
-- 🌱 Estudando Python, HTML e CSS
+- 🌱 Estudando Python(Django), HTML , Java Script e CSS
 - 📫 Email: goncalves7219@gmail.com
 
 ## Olá eu sou o Vinicius, Estudante de Programação e Tecnologia!
