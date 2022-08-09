@@ -3,6 +3,7 @@
 
 - 🌱 Estudando Python(Django), HTML , Java Script e CSS
 - 📫 Email: goncalves7219@gmail.com
+-  📱 WPP (22) 99620-4743
 
 ## Olá eu sou o Vinicius, Estudante de Programação e Tecnologia!
 <div align="center">
